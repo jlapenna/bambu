@@ -6,6 +6,9 @@ JSON field names and exit codes are part of the public API.
 
 ## [Unreleased]
 
+### Changed
+- Route fork source maintenance through a focused skill with local proof and printer authority boundaries.
+
 ## [0.1.0] - 2026-09-23
 
 ### Added

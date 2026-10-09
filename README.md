@@ -177,3 +177,10 @@ Not affiliated with Bambu Lab. "Bambu Lab" is a trademark of its owner.
 ## License
 
 MIT
+
+## Fork repository maintenance
+
+Start at [AGENTS.md](AGENTS.md) and the
+[bambu-source-dev skill](.agents/skills/bambu-source-dev/SKILL.md) for fork source work and
+harness upkeep. Runtime operation and release procedures retain their
+existing scope and evidence requirements.

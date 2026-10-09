@@ -89,3 +89,15 @@ Errors in `--json` mode: `{"error":{"code","name","message","hint"}}`. The hint 
 ## Reference
 
 See [references/COMMANDS.md](references/COMMANDS.md) for every command and flag.
+
+## Workflow feedback and evidence
+
+Corroborate failures against command output, inspected artifacts and current
+printer observations before changing the workflow. Keep deterministic payload
+and gate invariants with their implementation/tests. Treat documented firmware
+observations as dated evidence requiring revalidation. Unknown status is not a
+confirmed disabled setting; report missing proof rather than inventing it.
+A fake or dry-run send is not a physical print, and a snapshot needs actual
+pixel inspection before a clear-plate claim. Source guidance upkeep follows the
+[fork development skill](../../.agents/skills/bambu-source-dev/SKILL.md) and
+does not grant runtime approval.

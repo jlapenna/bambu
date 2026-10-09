@@ -44,3 +44,9 @@ over LAN (Developer Mode). Data goes to stdout (parseable); hints/progress to st
 ## Commits
 
 Conventional Commits (`feat:`, `fix:`, `docs:`, `test:`, `chore:`), imperative summary; update CHANGELOG.md.
+
+## Fork source and harness maintenance
+
+Read the [bambu-source-dev skill](.agents/skills/bambu-source-dev/SKILL.md) for source ownership,
+checks, outcome evidence and fork delivery. Keep general maintenance procedures
+with its shared owner and preserve this repository's operational boundaries.
